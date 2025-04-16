@@ -43,11 +43,19 @@ A Flask-based web application that detects phishing URLs using machine learning.
 ## 📦 Project Structure
 1. Clone the repository:
 https://github.com/Yogasathya/Phising_url_detector.git
+
+
 2.Install dependencies:
 pip install -r requirements.txt
+
+
 3.Run the Flask app:
 python app.py
+
+
 4.Visit `http://127.0.0.1:5000` in your browser
+
+
 ## 🧪 Future Improvements
 
 - Add REST API support
